@@ -1,0 +1,21 @@
+h1 {
+  color: purple;
+  text-align: center;
+  font-family:fantasy;
+  font-weight:200;
+  font-style:normal;
+  font-size:200;
+  line-height:inherit;
+}
+
+img {
+  width: 600px;
+  height: 400px;
+}
+
+ol {
+  line-height:150px;
+  text-align: center;
+  display:table;
+  margin:0 auto;
+}
